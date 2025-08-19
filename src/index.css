@@ -1,15 +1,15 @@
-@import "tailwindcss";
-
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 /* clerk user button adjust */
-
 .cl-avatarBox {
   width: 3rem;
   height: 3rem;
 }
 
-/* carousel arrow  */
-.arrows{
+/* carousel arrow */
+.arrows {
   height: 40px;
   width: 40px;
   margin: 1px;

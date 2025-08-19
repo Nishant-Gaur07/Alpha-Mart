@@ -1,5 +1,5 @@
 {
-  "name": "Alpha-Mart",
+  "name": "alpha-mart",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,16 +10,16 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@clerk/clerk-react": "^5.29.0",
+    "@clerk/clerk-react": "^5.42.1",
     "@clerk/nextjs": "^6.31.1",
     "@tailwindcss/vite": "^4.1.4",
-    "axios": "^1.8.4",
+    "axios": "^1.11.0",
     "lottie-react": "^2.4.1",
     "lucide-react": "^0.503.0",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
     "react-icons": "^5.5.0",
-    "react-router-dom": "^7.5.1",
+    "react-router-dom": "^7.8.1",
     "react-scroll-to-top": "^3.1.0",
     "react-slick": "^0.30.3",
     "react-toastify": "^11.0.5",
@@ -38,5 +38,18 @@
     "postcss": "^8.5.6",
     "tailwindcss": "^4.1.12",
     "vite": "^6.3.5"
-  }
+  },
+  "description": "This is a E-Commerce Website",
+  "main": "eslint.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nishant-Gaur07/Alpha-Mart.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nishant-Gaur07/Alpha-Mart/issues"
+  },
+  "homepage": "https://github.com/Nishant-Gaur07/Alpha-Mart#readme"
 }
